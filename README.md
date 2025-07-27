@@ -76,5 +76,4 @@ Ronit Kumar — ronitsingh81025@gmail.com
 
 GitHub: ronit7707
 
-# Tags:
-C++ CGPA Calculator GPA Calculator Student Projects Beginner Friendly
+
